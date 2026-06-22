@@ -72,7 +72,7 @@ export const ADDONS: Record<string, AddOn> = {
     pricing: [
       { duration: 1, unit: 'd', price: 15 },
       { duration: 2, unit: 'd', price: 25 },
-      { duration: 1, unit: 'w', price: 35 },
+      { duration: 1, unit: 'w', price: 45 },
     ],
     dailyComparison: 35,
   },
@@ -93,7 +93,7 @@ export const ADDONS: Record<string, AddOn> = {
     pricing: [
       { duration: 1, unit: 'd', price: 5 },
       { duration: 2, unit: 'd', price: 10 },
-      { duration: 1, unit: 'w', price: 15 },
+      { duration: 1, unit: 'w', price: 25 },
     ],
     dailyComparison: 10,
   },
@@ -122,7 +122,7 @@ export const PRODUCTS: Record<string, Product> = {
     pricing: [
       { duration: 1, unit: 'd', price: 15 },
       { duration: 2, unit: 'd', price: 25 },
-      { duration: 1, unit: 'w', price: 35 }
+      { duration: 1, unit: 'w', price: 45 }
     ],
     dailyComparison: 35,
     deposit: 100
@@ -148,7 +148,7 @@ export const PRODUCTS: Record<string, Product> = {
     pricing: [
       { duration: 1, unit: 'd', price: 15 },
       { duration: 2, unit: 'd', price: 25 },
-      { duration: 1, unit: 'w', price: 30 }
+      { duration: 1, unit: 'w', price: 45 }
     ],
     dailyComparison: 35,
     deposit: 50
@@ -175,7 +175,7 @@ export const PRODUCTS: Record<string, Product> = {
     pricing: [
       { duration: 1, unit: 'd', price: 15 },
       { duration: 2, unit: 'd', price: 25 },
-      { duration: 1, unit: 'w', price: 35 }
+      { duration: 1, unit: 'w', price: 45 }
     ],
     dailyComparison: 35,
     deposit: 100
@@ -202,7 +202,7 @@ export const PRODUCTS: Record<string, Product> = {
     pricing: [
       { duration: 1, unit: 'd', price: 10 },
       { duration: 2, unit: 'd', price: 15 },
-      { duration: 1, unit: 'w', price: 25 }
+      { duration: 1, unit: 'w', price: 30 }
     ],
     dailyComparison: 20,
     deposit: 50
@@ -229,7 +229,7 @@ export const PRODUCTS: Record<string, Product> = {
     pricing: [
       { duration: 1, unit: 'd', price: 10 },
       { duration: 2, unit: 'd', price: 15 },
-      { duration: 1, unit: 'w', price: 25 }
+      { duration: 1, unit: 'w', price: 30 }
     ],
     dailyComparison: 20,
     deposit: 50
