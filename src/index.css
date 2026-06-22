@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Inter', ui-sans-serif, system-ui, sans-serif;
+  --font-serif: Georgia, serif;
+
+  --color-brand-bg: var(--bg);
+  --color-brand-content: var(--content);
+  --color-brand-deep: var(--deep);
+  --color-brand-primary: var(--primary);
+  --color-brand-accent: var(--accent);
+  --color-brand-gray: var(--gray);
+  --color-brand-subtle: var(--subtle);
+  --color-brand-border: var(--border);
+  
+  --radius-xl: 12px;
+  --radius-full: 100px;
+}
+
+@layer base {
+  :root {
+    --bg: #F4F7F6;
+    --content: #F8FAF9;
+    --deep: #1A2F33;
+    --primary: #2D5A61;
+    --accent: #7BA8A1;
+    --gray: #5D7067;
+    --subtle: #8B9D95;
+    --border: #E5EBE8;
+    --card-bg: #FFFFFF;
+    --nav-bg: #FFFFFF;
+  }
+
+  .dark {
+    --bg: #0F171A;
+    --content: #152024;
+    --deep: #E2E8F0;
+    --primary: #4A8B95;
+    --accent: #7BA8A1;
+    --gray: #94A3B8;
+    --subtle: #64748B;
+    --border: #23343A;
+    --card-bg: #1A272C;
+    --nav-bg: #1A272C;
+  }
+
+  body {
+    @apply bg-brand-bg text-brand-deep font-sans antialiased transition-colors duration-300;
+  }
+  
+  h1, h2, h3, h4 {
+    @apply font-serif;
+  }
+}
+
+.glass {
+  @apply bg-[var(--nav-bg)] border-b border-brand-border backdrop-blur-md;
+}
+
+.nav-link {
+  @apply text-sm font-medium text-brand-gray hover:text-brand-primary transition-colors h-full flex items-center px-4;
+}
+
+.nav-link.active {
+  @apply text-brand-primary border-b-2 border-brand-primary;
+}
+
+.btn-primary {
+  @apply bg-brand-primary text-white border border-brand-primary px-6 py-3 rounded-full font-semibold text-sm hover:opacity-90 transition-all duration-200 inline-block;
+}
+
+.btn-secondary {
+  @apply border border-brand-primary text-brand-primary px-6 py-3 rounded-full font-semibold text-sm hover:bg-brand-primary/5 transition-all duration-200 inline-block;
+}
+
+.card {
+  @apply bg-[var(--card-bg)] rounded-xl p-5 border border-brand-border shadow-none transition-all duration-300;
+}
+
+.category-pill {
+  @apply text-[10px] uppercase tracking-widest bg-brand-bg px-2 py-1 rounded-sm text-brand-gray font-semibold;
+}
+
+.sidebar-layout {
+  @apply grid grid-cols-1 lg:grid-cols-[340px_1fr] min-h-[calc(100vh-140px)] gap-px bg-brand-border overflow-hidden;
+}
+
+.sidebar-panel {
+  @apply bg-[var(--card-bg)] p-10 flex flex-col justify-between;
+}
+
+.content-panel {
+  @apply bg-brand-content p-10;
+}

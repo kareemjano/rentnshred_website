@@ -1,0 +1,224 @@
+{
+  "common": {
+    "brandName": "RentNShred",
+    "tagline": "#GearUpGoPlay",
+    "loading": "Wird geladen...",
+    "error": "Ein Fehler ist aufgetreten",
+    "back": "Zurück",
+    "viewDetails": "Details anzeigen",
+    "compareAgainst": "vs"
+  },
+  "navbar": {
+    "home": "Startseite",
+    "equipment": "Ausrüstung",
+    "about": "Über uns",
+    "contact": "Kontakt",
+    "explore": "Ausrüstung entdecken"
+  },
+  "footer": {
+    "description": "Sportgeräteverleih für den modernen Abenteurer. Erlebe das Fahrgefühl ohne die Verpflichtung eines Kaufs.",
+    "explore": "Entdecken",
+    "legal": "Rechtliches",
+    "rights": "Alle Rechte vorbehalten."
+  },
+  "homepage": {
+    "hero": {
+      "title": "Leihe für Tage.",
+      "titleItalic": "Zahle für einen.",
+      "description": "Gear für ausgedehnte Abenteuer, von Abenteuer-Liebhabern für Abenteuer-Liebhaber. Erhalte mehrtägigen Zugang zu zuverlässiger Ausrüstung für deinen Trip zu erschwinglichen Preisen. Mehr Spaß, weniger Stress.",
+      "browse": "Finde dein Urlaubs-Gear",
+      "howItWorks": "So funktioniert's",
+      "tagline": "#GearUpGoPlay"
+    },
+    "categories": {
+      "featured": "Beliebte Kategorien",
+      "snowboard": "Snowboards",
+      "surfboard": "Surfbretter",
+      "skateboard": "Skateboards",
+      "inlineskates": "Inlineskates",
+      "boat": "Schlauchboote",
+      "all": "Alle"
+    }
+  },
+  "equipment": {
+    "title": "Mehrtägiger Ausrüstungsverleih",
+    "search": "Urlaubs-Gear suchen...",
+    "noResults": "Keine Ausrüstung für deine Auswahl gefunden.",
+    "clearFilters": "Alle Filter löschen",
+    "backToCollection": "Zurück zur Kollektion",
+    "productNotFound": "Produkt nicht gefunden",
+    "backToResults": "Zurück zu den Suchergebnissen",
+    "rentNow": "Für meinen Trip reservieren",
+    "addToWishlist": "Für später speichern",
+    "shareGear": "Ausrüstung teilen",
+    "share": {
+      "title": "Ausrüstung teilen",
+      "copy": "Link kopieren",
+      "copied": "Kopiert!"
+    },
+    "reserve": {
+      "modalTitle": "Ausrüstung reservieren",
+      "modalSubtitle": "Sichere dir dein Equipment für das nächste Abenteuer. Wähle eine der beiden Optionen unten.",
+      "tabKleinanzeigen": "eBay Kleinanzeigen",
+      "tabDirect": "WhatsApp Business",
+      "kleinanzeigenTitle": "Option 1: eBay Kleinanzeigen Anzeige",
+      "kleinanzeigenDesc": "Sicher mieten und direkt mit uns chatten auf Deutschlands führender Kleinanzeigen-Plattform. Unser gesamtes Inventar ist dort gelistet.",
+      "kleinanzeigenFeature1": "Hervorragend bewertetes, verifiziertes Anbieter-Profil",
+      "kleinanzeigenFeature2": "Direkter Chat-Support mit extrem schnellen Antwortzeiten",
+      "kleinanzeigenFeature3": "Sichere und vertrauenswürdige Transaktionsabwicklung",
+      "kleinanzeigenCTA": "Über eBay Kleinanzeigen buchen",
+      "directTitle": "Option 2: Buchung über WhatsApp Business",
+      "directDesc": "Fülle das Formular aus. Wir erstellen eine formatierte Nachricht und öffnen WhatsApp, damit du direkt mit uns chatten kannst.",
+      "form": {
+        "dateFrom": "Mieten ab",
+        "dateTo": "Mieten bis",
+        "fullName": "Dein vollständiger Name",
+        "phone": "Deine Telefonnummer",
+        "notes": "Zusätzliche Anmerkungen / Wünsche",
+        "notesPlaceholder": "Z.B. Abholzeit, Körpergröße/Gewicht, Fragen...",
+        "submit": "Reservierung über WhatsApp senden",
+        "success": "WhatsApp geöffnet!",
+        "successDesc": "WhatsApp wurde geöffnet. Bitte sende die formatierte Nachricht an +49 1520 8181603, um deine Anfrage abzuschließen.",
+        "summary": "Gesamtpreis: €{{price}} (+ €{{deposit}} erstattbare Kaution)"
+      }
+    },
+    "fromPrice": "ab",
+    "totalFor": "Gesamt für",
+    "day": "Tag",
+    "days": "Tage",
+    "bundleValue": "Mehrtägiger Paketpreis",
+    "typicalCost": "Typische Tagesrate im Shop",
+    "youSave": "Du sparst",
+    "addOnsTitle": "Optionale Extras",
+    "addOnsDescription": "Miete passendes Zubehör direkt zu deiner Ausrüstung dazu:",
+    "pricing": {
+      "selectDuration": "Dauer auswählen",
+      "durations": {
+        "1day": "1 Tag",
+        "2days": "2 Tage",
+        "1week": "1 Woche"
+      }
+    },
+    "specs": {
+      "size": "Größe",
+      "level": "Niveau",
+      "material": "Material",
+      "availability": "Verfügbarkeit",
+      "instantBooking": "Sofortige Buchung",
+      "deposit": "Kaution (erstattbar)"
+    },
+    "insurance": "Leihe mit Vertrauen.",
+    "similar": "Ähnliche Ausrüstung"
+  },
+  "about": {
+    "title": "Geboren aus der",
+    "titleItalic": "Liebe zum Abenteuer.",
+    "intro": "RentNShred wurde von Abenteuer-Liebhabern für Abenteuer-Liebhaber ins Leben gerufen. Wir konzentrieren uns auf die mehrtägige Miete von zuverlässigem, funktionalem Gear, das dir genau das ermöglicht, was du tun möchtest – ohne unnötige Premium-Preise.",
+    "ideaTitle": "Einfaches Equipment, ehrlicher Wert",
+    "ideaText1": "Klassische Verleihe können kompliziert und teuer sein. Wir setzen auf Einfachheit: Wir bieten robuste, gute Ausrüstung, die ihren Zweck perfekt erfüllt, damit du dich ganz aufs Fahren konzentrieren kannst.",
+    "ideaText2": "Wir sind ein kleines, lokales Unternehmen, das gegründet wurde, um unseren eigenen Bedarf zu decken. Wir haben keinen großen Konzern im Rücken – wir wachsen und bestehen rein durch die Unterstützung unserer großartigen Community.",
+    "valuesTitle": "Erlebe dein Abenteuer",
+    "valuesText1": "Es muss kein überteuertes Luxus-Equipment sein, um perfekt zu sein. Wir bieten zuverlässige, gut gepflegte Ausrüstung, die voll einsatzbereit ist und genau das tut, was du brauchst.",
+    "valuesText2": "Mit der Unterstützung unseres kleinen Unternehmens hilfst du Gleichgesinnten dabei, eine nachhaltige Alternative aufzubauen. Wir bleiben nahbar, freundlich und fokussiert auf das, was zählt: den Spaß am Sport.",
+    "ctaTitle": "Bereit für den Ride?",
+    "ctaText": "Schließe dich unserer wachsenden Community von Abenteurern an, die echten Spaß und Praktikabilität über hohe Kosten stellen. Dein nächster Trip beginnt hier.",
+    "ctaButton": "Kollektion durchsuchen"
+  },
+  "contact": {
+    "title": "Kontaktiere uns.",
+    "description": "Hast du Fragen zu unserer Ausrüstung, Standorten oder Gruppenveranstaltungen? Unser kleines, aber engagiertes Team hilft dir gerne weiter.",
+    "labels": {
+      "firstName": "Vorname",
+      "lastName": "Nachname",
+      "email": "E-Mail-Adresse",
+      "message": "Nachricht"
+    },
+    "submit": "Nachricht senden",
+    "success": "Nachricht gesendet",
+    "successMsg": "Vielen Dank für deine Kontaktaufnahme. Wir werden uns innerhalb von 24 Stunden bei dir melden.",
+    "sendAnother": "Weitere Nachricht senden",
+    "info": {
+      "email": "E-Mail",
+      "phone": "Telefon",
+      "basecamp": "Basecamp"
+    }
+  },
+  "legal": {
+    "impressum": "Impressum",
+    "impressumSubtitle": "Rechtliche Hinweise",
+    "privacy": "Datenschutz",
+    "privacySubtitle": "Datenschutzerklärung",
+    "terms": "AGB",
+    "termsSubtitle": "Allgemeine Geschäftsbedingungen",
+    "details": "Angaben gemäß § 5 TMG",
+    "represented": "Vertreten durch",
+    "contact": "Kontakt",
+    "register": "Registereintrag",
+    "vat": "Umsatzsteuer-ID",
+    "pages": {
+      "impressum": {
+        "title": "Impressum",
+        "subtitle": "Rechtliche Hinweise",
+        "headers": {
+          "details": "Angaben gemäß § 5 TMG",
+          "represented": "Vertreten durch",
+          "contact": "Kontakt",
+          "register": "Registereintrag",
+          "vat": "Umsatzsteuer-ID"
+        },
+        "content": {
+          "details": "RentNShred GbR\nLindwurmstr. 100\n80337 München",
+          "represented": "Mhd Karim Janou & Gusnadi Wiyoga",
+          "contact": "Telefon: +49 1520 8181603\nE-Mail: webmaster@rentnshred.de",
+          "register": "Eintragung im Handelsregister.\nRegistergericht: Amtsgericht München\nRegisternummer: HRB 123456",
+          "vat": "Gemäß § 19 UStG wird keine Umsatzsteuer berechnet und diese auf Rechnungen nicht ausgewiesen (Kleinunternehmerstatus)."
+        }
+      },
+      "privacy": {
+        "title": "Datenschutz",
+        "subtitle": "Datenschutzerklärung",
+        "intro": "Diese Datenschutzerklärung informiert Sie darüber, wie RentNShred mit Ihren personenbezogenen Daten umgeht. Wir schätzen Ihre Privatsphäre und erfassen nur das, was für die Erbringung unserer Dienstleistungen unbedingt erforderlich ist.",
+        "sections": [
+          {
+            "header": "1. Datenerhebung",
+            "text": "Wir erfassen personenbezogene Daten wie Name, E-Mail-Adresse und Zahlungsdaten, wenn Sie eine Buchung vornehmen. Diese Daten werden ausschließlich zur Erfüllung des Mietvertrags verwendet."
+          },
+          {
+            "header": "2. Speicherdauer",
+            "text": "Wir speichern Ihre Daten so lange, wie es gesetzlich vorgeschrieben ist oder so lange, wie es für die Erbringung der angeforderten Dienstleistungen erforderlich ist. Finanzunterlagen werden für die Dauer der steuerlichen Anforderungen aufbewahrt."
+          },
+          {
+            "header": "3. Ihre Rechte",
+            "text": "Sie haben das Recht, Auskunft über die von uns gespeicherten Daten zu verlangen, diese korrigieren oder löschen zu lassen und Ihre Einwilligung jederzeit zu widerrufen."
+          }
+        ]
+      },
+      "terms": {
+        "title": "AGB",
+        "subtitle": "Allgemeine Geschäftsbedingungen",
+        "intro": "Indem Sie Ausrüstung bei RentNShred mieten, erklären Sie sich mit den folgenden Bedingungen einverstanden. Diese gewährleisten ein sicheres und angenehmes Erlebnis für alle.",
+        "sections": [
+          {
+            "header": "1. Mietzeitraum",
+            "text": "Die Mietzeit für eine eintägige Miete erstreckt sich von morgens bis abends desselben Tages (und beträgt keine 24 Stunden). Verspätete Rückgaben können zusätzliche Gebühren nach sich ziehen."
+          },
+          {
+            "header": "2. Umgang mit der Ausrüstung",
+            "text": "Der Mieter ist für den ordnungsgemäßen Umgang mit der Ausrüstung verantwortlich. Übermäßige Beschädigung oder Verlust werden zum Reparatur- oder Wiederbeschaffungswert in Rechnung gestellt."
+          },
+          {
+            "header": "3. Haftung",
+            "text": "Outdoor-Sportarten sind mit inhärenten Risiken verbunden. RentNShred haftet nicht für Verletzungen, die während der Nutzung der Ausrüstung entstehen. Wir empfehlen dringend eine professionelle Einweisung."
+          }
+        ]
+      }
+    }
+  },
+  "items": {},
+  "levels": {
+    "Beginner": "Anfänger",
+    "Intermediate": "Fortgeschritten",
+    "Advanced": "Experte",
+    "Pro": "Profi"
+  }
+}

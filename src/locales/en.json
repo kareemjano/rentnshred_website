@@ -1,0 +1,224 @@
+{
+  "common": {
+    "brandName": "RentNShred",
+    "tagline": "#GearUpGoPlay",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "back": "Back",
+    "viewDetails": "View Details",
+    "compareAgainst": "vs"
+  },
+  "navbar": {
+    "home": "Home",
+    "equipment": "Equipment",
+    "about": "About",
+    "contact": "Contact",
+    "explore": "Explore Gear"
+  },
+  "footer": {
+    "description": "Sports equipment rental for the modern adventurer. Experience the ride without the commitment of ownership.",
+    "explore": "Explore",
+    "legal": "Legal",
+    "rights": "All rights reserved."
+  },
+  "homepage": {
+    "hero": {
+      "title": "Rent for days.",
+      "titleItalic": "Pay like it's one.",
+      "description": "Gear for extended adventures, from adventure lovers to adventure lovers. Get multi-day access to the reliable equipment you need for your trip, at affordable prices. More ride, zero hassle.",
+      "browse": "Find your trip gear",
+      "howItWorks": "How it Works",
+      "tagline": "#GearUpGoPlay"
+    },
+    "categories": {
+      "featured": "Featured Categories",
+      "snowboard": "Snowboards",
+      "surfboard": "Surfboards",
+      "skateboard": "Skateboards",
+      "inlineskates": "Inline Skates",
+      "boat": "Boats",
+      "all": "All"
+    }
+  },
+  "equipment": {
+    "title": "Extended Gear Rental",
+    "search": "Search trip gear...",
+    "noResults": "No equipment found for your selection.",
+    "clearFilters": "Clear all filters",
+    "backToCollection": "Back to Collection",
+    "productNotFound": "Product not found",
+    "backToResults": "Back to search results",
+    "rentNow": "Reserve for my trip",
+    "addToWishlist": "Save for later",
+    "shareGear": "Share Gear",
+    "share": {
+      "title": "Share Gear",
+      "copy": "Copy Link",
+      "copied": "Copied!"
+    },
+    "reserve": {
+      "modalTitle": "Reserve Your Gear",
+      "modalSubtitle": "Secure your gear for your next adventure. Choose one of our two rental options below.",
+      "tabKleinanzeigen": "eBay Kleinanzeigen",
+      "tabDirect": "WhatsApp Business",
+      "kleinanzeigenTitle": "Option 1: eBay Kleinanzeigen Listing",
+      "kleinanzeigenDesc": "Rent safely and chat directly with us on Germany's leading classifieds platform. Our full inventory is maintained there.",
+      "kleinanzeigenFeature1": "Highly rated, fully verified owner profile",
+      "kleinanzeigenFeature2": "Direct chat support with rapid response times",
+      "kleinanzeigenFeature3": "Secure, verified platform transactions",
+      "kleinanzeigenCTA": "Book via eBay Kleinanzeigen",
+      "directTitle": "Option 2: Booking via WhatsApp Business",
+      "directDesc": "Complete the form below. We will format a direct message and open WhatsApp so you can immediately connect with us.",
+      "form": {
+        "dateFrom": "Rent From",
+        "dateTo": "Rent To",
+        "fullName": "Your Full Name",
+        "phone": "Your Phone Number",
+        "notes": "Additional Notes / Special Requests",
+        "notesPlaceholder": "E.g. pick-up time, height/weight specs, questions...",
+        "submit": "Send Reservation via WhatsApp",
+        "success": "WhatsApp Opened!",
+        "successDesc": "Your WhatsApp client has been opened. Please send the formatted message to +49 1520 8181603 to submit your request.",
+        "summary": "Total Price: €{{price}} (+ €{{deposit}} refundable deposit)"
+      }
+    },
+    "fromPrice": "from",
+    "totalFor": "Total for",
+    "day": "day",
+    "days": "days",
+    "bundleValue": "Multi-day bundle price",
+    "typicalCost": "Typical daily shop rate",
+    "youSave": "You save",
+    "addOnsTitle": "Optional Add-ons",
+    "addOnsDescription": "Rent essential accessories alongside your core gear:",
+    "pricing": {
+      "selectDuration": "Select Duration",
+      "durations": {
+        "1day": "1 Day",
+        "2days": "2 Days",
+        "1week": "1 Week"
+      }
+    },
+    "specs": {
+      "size": "Size",
+      "level": "Level",
+      "material": "Material",
+      "availability": "Availability",
+      "instantBooking": "Instant Booking",
+      "deposit": "Refundable Deposit"
+    },
+    "insurance": "Rent with confidence.",
+    "similar": "Similar Equipment"
+  },
+  "about": {
+    "title": "Born from the",
+    "titleItalic": "love of adventure.",
+    "intro": "RentNShred was built by adventure lovers, for adventure lovers. We focus on multi-day rentals of reliable, functional gear that enables you to do exactly what you want, without any unnecessary premium costs.",
+    "ideaTitle": "Simple Gear, Honest Value",
+    "ideaText1": "Traditional rentals can get complicated and expensive. We focus on simplicity: we provide sturdy, good-grade equipment that gets the job done perfectly, letting you focus on the ride.",
+    "ideaText2": "We are a small, local company that started out to solve our own rental needs. We don't have massive corporate backing—we run entirely on the support of our incredible community of riders.",
+    "valuesTitle": "Enabling Your Adventure",
+    "valuesText1": "It does not need to be over-engineered, top-tier luxury brand gear to be perfect. We offer reliable, well-maintained equipment that is fully ready for action and does exactly what you need.",
+    "valuesText2": "By supporting our local business, you are helping fellow outdoor enthusiasts build a sustainable alternative. We keep things friendly, approachable, and focused entirely on the enjoyment of the sport.",
+    "ctaTitle": "Ready to ride?",
+    "ctaText": "Join our growing community of adventurers who choose real-world fun and practicality over high costs. Your next trip starts here.",
+    "ctaButton": "Browse Collection"
+  },
+  "contact": {
+    "title": "Get in touch.",
+    "description": "Have questions about our gear, locations, or group events? Our small but dedicated team is here to help you get out there.",
+    "labels": {
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email Address",
+      "message": "Message"
+    },
+    "submit": "Send Message",
+    "success": "Message Sent",
+    "successMsg": "Thank you for reaching out. We'll get back to you within 24 hours.",
+    "sendAnother": "Send another message",
+    "info": {
+      "email": "Email",
+      "phone": "Phone",
+      "basecamp": "Basecamp"
+    }
+  },
+  "legal": {
+    "impressum": "Impressum",
+    "impressumSubtitle": "Legal Notice",
+    "privacy": "Privacy Policy",
+    "privacySubtitle": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "termsSubtitle": "Terms & Conditions",
+    "details": "Angaben gemäß § 5 TMG",
+    "represented": "Vertreten durch",
+    "contact": "Kontakt",
+    "register": "Registereintrag",
+    "vat": "Umsatzsteuer-ID",
+    "pages": {
+      "impressum": {
+        "title": "Impressum",
+        "subtitle": "Legal Notice",
+        "headers": {
+          "details": "Information according to § 5 TMG",
+          "represented": "Represented by",
+          "contact": "Contact",
+          "register": "Register Entry",
+          "vat": "VAT ID"
+        },
+        "content": {
+          "details": "RentNShred GbR\nLindwurmstr. 100\n80337 Munich",
+          "represented": "Mhd Karim Janou & Gusnadi Wiyoga",
+          "contact": "Phone: +49 1520 8181603\nEmail: webmaster@rentnshred.de",
+          "register": "Entry in the commercial register.\nDistrict Court: Munich\nRegistration Number: HRB 123456",
+          "vat": "According to § 19 UStG (German Value Added Tax Act), VAT is not calculated or stated on invoices due to small business status (Kleinunternehmerstatus)."
+        }
+      },
+      "privacy": {
+        "title": "Privacy Policy",
+        "subtitle": "Data Protection",
+        "intro": "This privacy policy provides information about how RentNShred handles your personal data. We value your privacy and only collect what is strictly necessary to provide our services.",
+        "sections": [
+          {
+            "header": "1. Collection of Data",
+            "text": "We collect personal information such as name, email address, and payment details when you make a booking. This information is used solely for the fulfillment of the rental agreement."
+          },
+          {
+            "header": "2. Storage Period",
+            "text": "We store your data as long as required by law or for as long as necessary to provide the services requested. Financial records are kept for the duration of the fiscal requirements."
+          },
+          {
+            "header": "3. Your Rights",
+            "text": "You have the right to request access to the data we hold, to have it corrected or deleted, and to withdraw your consent at any time."
+          }
+        ]
+      },
+      "terms": {
+        "title": "Terms & Conditions",
+        "subtitle": "User Agreement",
+        "intro": "By renting equipment from RentNShred, you agree to the following terms and conditions. These ensure a safe and enjoyable experience for everyone.",
+        "sections": [
+          {
+            "header": "1. Rental Period",
+            "text": "The rental period for a single-day rental goes from morning to evening of the same day (and is not a 24-hour period). Late returns may incur additional fees."
+          },
+          {
+            "header": "2. Care of Equipment",
+            "text": "The renter is responsible for the proper care of the equipment. Excessive damage or loss will be billed at repair or replacement cost."
+          },
+          {
+            "header": "3. Liability",
+            "text": "Outdoor sports involve inherent risks. RentNShred is not liable for injuries sustained while using the equipment. We strongly recommend professional instruction."
+          }
+        ]
+      }
+    }
+  },
+  "items": {},
+  "levels": {
+    "Beginner": "Beginner",
+    "Intermediate": "Intermediate",
+    "Advanced": "Advanced",
+    "Pro": "Pro"
+  }
+}
