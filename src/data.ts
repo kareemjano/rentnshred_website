@@ -58,7 +58,7 @@ export interface AddOn {
 export const ADDONS: Record<string, AddOn> = {
   'neoprene54-quick-1': {
     id: 'neoprene54-quick-1',
-    image: '/store/quiksilver-wetsuit.jpeg',
+    image: '/store/quiksilver-wetsuit.png',
     specs: {
       size: 'MS (172-177cm, 65-75kg)',
     },
