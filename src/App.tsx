@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-import { HashRouter, Routes, Route, useLocation, Navigate } from 'react-router-dom';
+import { BrowserRouter, Routes, Route, useLocation, Navigate } from 'react-router-dom';
 import { useEffect } from 'react';
 import { Navbar, Footer } from './components/Navigation';
 import { Home } from './pages/Home';
@@ -27,7 +27,7 @@ function ScrollToTop() {
 export default function App() {
   return (
     <ThemeProvider>
-      <HashRouter>
+      <BrowserRouter>
         <ScrollToTop />
         <div className="min-h-screen flex flex-col bg-brand-bg transition-colors duration-300">
           <Navbar />
@@ -46,7 +46,7 @@ export default function App() {
           </main>
           <Footer />
         </div>
-      </HashRouter>
+      </BrowserRouter>
     </ThemeProvider>
   );
 }
