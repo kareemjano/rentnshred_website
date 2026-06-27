@@ -130,7 +130,7 @@ export const PRODUCTS: Record<string, Product> = {
   },
   'boot-01': {
     id: 'boot-01',
-    category: 'Boat',
+    category: 'Water Sports',
     image: '/store/schlauchboot1_2.png',
     hide: false,
     specs: {
@@ -156,7 +156,7 @@ export const PRODUCTS: Record<string, Product> = {
   },
   'surf-01': {
     id: 'surf-01',
-    category: 'Surfboard',
+    category: 'Water Sports',
     image: '/store/surfboard1.png',
     hide: false,
     specs: {

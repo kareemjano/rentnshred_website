@@ -30,7 +30,10 @@ export const EquipmentList: React.FC = () => {
     });
   }, [activeCategory, searchQuery, t]);
 
-  const categories: (Category | 'All')[] = ['All', 'Snowboard', 'Surfboard', 'Skateboard', 'Boat'];
+  const categories: (Category | 'All')[] = useMemo(() => {
+    const available = EQUIPMENT.filter(e => !e.hide).map(e => e.category);
+    return ['All', ...Array.from(new Set(available))] as (Category | 'All')[];
+  }, []);
 
   return (
     <div className="pt-32 pb-24 px-6 max-w-7xl mx-auto">

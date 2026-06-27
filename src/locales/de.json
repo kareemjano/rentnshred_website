@@ -2,9 +2,6 @@
   "common": {
     "brandName": "RentNShred",
     "tagline": "#GearUpGoPlay",
-    "loading": "Wird geladen...",
-    "error": "Ein Fehler ist aufgetreten",
-    "back": "Zurück",
     "viewDetails": "Details anzeigen",
     "compareAgainst": "vs"
   },
@@ -12,13 +9,9 @@
     "home": "Startseite",
     "equipment": "Ausrüstung",
     "about": "Über uns",
-    "contact": "Kontakt",
-    "explore": "Ausrüstung entdecken"
+    "contact": "Kontakt"
   },
   "footer": {
-    "description": "Sportgeräteverleih für den modernen Abenteurer. Erlebe das Fahrgefühl ohne die Verpflichtung eines Kaufs.",
-    "explore": "Entdecken",
-    "legal": "Rechtliches",
     "rights": "Alle Rechte vorbehalten."
   },
   "homepage": {
@@ -27,16 +20,14 @@
       "titleItalic": "Zahle für einen.",
       "description": "Gear für ausgedehnte Abenteuer, von Abenteuer-Liebhabern für Abenteuer-Liebhaber. Erhalte mehrtägigen Zugang zu zuverlässiger Ausrüstung für deinen Trip zu erschwinglichen Preisen. Mehr Spaß, weniger Stress.",
       "browse": "Finde dein Urlaubs-Gear",
-      "howItWorks": "So funktioniert's",
-      "tagline": "#GearUpGoPlay"
+      "howItWorks": "So funktioniert's"
     },
     "categories": {
       "featured": "Beliebte Kategorien",
       "snowboard": "Snowboards",
       "surfboard": "Surfbretter",
       "skateboard": "Skateboards",
-      "inlineskates": "Inlineskates",
-      "boat": "Schlauchboote",
+      "watersports": "Wassersport",
       "all": "Alle"
     }
   },
@@ -49,7 +40,6 @@
     "productNotFound": "Produkt nicht gefunden",
     "backToResults": "Zurück zu den Suchergebnissen",
     "rentNow": "Für meinen Trip reservieren",
-    "addToWishlist": "Für später speichern",
     "shareGear": "Ausrüstung teilen",
     "share": {
       "title": "Ausrüstung teilen",
@@ -71,22 +61,18 @@
       "directDesc": "Fülle das Formular aus. Wir erstellen eine formatierte Nachricht und öffnen WhatsApp, damit du direkt mit uns chatten kannst.",
       "form": {
         "dateFrom": "Mieten ab",
-        "dateTo": "Mieten bis",
         "fullName": "Dein vollständiger Name",
-        "phone": "Deine Telefonnummer",
         "notes": "Zusätzliche Anmerkungen / Wünsche",
         "notesPlaceholder": "Z.B. Abholzeit, Körpergröße/Gewicht, Fragen...",
         "submit": "Reservierung über WhatsApp senden",
         "success": "WhatsApp geöffnet!",
-        "successDesc": "WhatsApp wurde geöffnet. Bitte sende die formatierte Nachricht an +49 1520 8181603, um deine Anfrage abzuschließen.",
-        "summary": "Gesamtpreis: €{{price}} (+ €{{deposit}} erstattbare Kaution)"
+        "successDesc": "WhatsApp wurde geöffnet. Bitte sende die formatierte Nachricht an +49 1520 8181603, um deine Anfrage abzuschließen."
       }
     },
     "fromPrice": "ab",
     "totalFor": "Gesamt für",
     "day": "Tag",
     "days": "Tage",
-    "bundleValue": "Mehrtägiger Paketpreis",
     "typicalCost": "Typische Tagesrate im Shop",
     "youSave": "Du sparst",
     "addOnsTitle": "Optionale Extras",
@@ -145,16 +131,8 @@
   },
   "legal": {
     "impressum": "Impressum",
-    "impressumSubtitle": "Rechtliche Hinweise",
     "privacy": "Datenschutz",
-    "privacySubtitle": "Datenschutzerklärung",
     "terms": "AGB",
-    "termsSubtitle": "Allgemeine Geschäftsbedingungen",
-    "details": "Angaben gemäß § 5 TMG",
-    "represented": "Vertreten durch",
-    "contact": "Kontakt",
-    "register": "Registereintrag",
-    "vat": "Umsatzsteuer-ID",
     "pages": {
       "impressum": {
         "title": "Impressum",
@@ -163,14 +141,12 @@
           "details": "Angaben gemäß § 5 TMG",
           "represented": "Vertreten durch",
           "contact": "Kontakt",
-          "register": "Registereintrag",
           "vat": "Umsatzsteuer-ID"
         },
         "content": {
           "details": "RentNShred GbR\nLindwurmstr. 100\n80337 München",
           "represented": "Mhd Karim Janou & Gusnadi Wiyoga",
           "contact": "Telefon: +49 1520 8181603\nE-Mail: webmaster@rentnshred.de",
-          "register": "Eintragung im Handelsregister.\nRegistergericht: Amtsgericht München\nRegisternummer: HRB 123456",
           "vat": "Gemäß § 19 UStG wird keine Umsatzsteuer berechnet und diese auf Rechnungen nicht ausgewiesen (Kleinunternehmerstatus)."
         }
       },

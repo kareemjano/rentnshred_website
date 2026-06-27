@@ -2,9 +2,6 @@
   "common": {
     "brandName": "RentNShred",
     "tagline": "#GearUpGoPlay",
-    "loading": "Loading...",
-    "error": "An error occurred",
-    "back": "Back",
     "viewDetails": "View Details",
     "compareAgainst": "vs"
   },
@@ -12,13 +9,9 @@
     "home": "Home",
     "equipment": "Equipment",
     "about": "About",
-    "contact": "Contact",
-    "explore": "Explore Gear"
+    "contact": "Contact"
   },
   "footer": {
-    "description": "Sports equipment rental for the modern adventurer. Experience the ride without the commitment of ownership.",
-    "explore": "Explore",
-    "legal": "Legal",
     "rights": "All rights reserved."
   },
   "homepage": {
@@ -27,16 +20,14 @@
       "titleItalic": "Pay like it's one.",
       "description": "Gear for extended adventures, from adventure lovers to adventure lovers. Get multi-day access to the reliable equipment you need for your trip, at affordable prices. More ride, zero hassle.",
       "browse": "Find your trip gear",
-      "howItWorks": "How it Works",
-      "tagline": "#GearUpGoPlay"
+      "howItWorks": "How it Works"
     },
     "categories": {
       "featured": "Featured Categories",
       "snowboard": "Snowboards",
       "surfboard": "Surfboards",
       "skateboard": "Skateboards",
-      "inlineskates": "Inline Skates",
-      "boat": "Boats",
+      "watersports": "Water Sports",
       "all": "All"
     }
   },
@@ -49,7 +40,6 @@
     "productNotFound": "Product not found",
     "backToResults": "Back to search results",
     "rentNow": "Reserve for my trip",
-    "addToWishlist": "Save for later",
     "shareGear": "Share Gear",
     "share": {
       "title": "Share Gear",
@@ -71,22 +61,18 @@
       "directDesc": "Complete the form below. We will format a direct message and open WhatsApp so you can immediately connect with us.",
       "form": {
         "dateFrom": "Rent From",
-        "dateTo": "Rent To",
         "fullName": "Your Full Name",
-        "phone": "Your Phone Number",
         "notes": "Additional Notes / Special Requests",
         "notesPlaceholder": "E.g. pick-up time, height/weight specs, questions...",
         "submit": "Send Reservation via WhatsApp",
         "success": "WhatsApp Opened!",
-        "successDesc": "Your WhatsApp client has been opened. Please send the formatted message to +49 1520 8181603 to submit your request.",
-        "summary": "Total Price: €{{price}} (+ €{{deposit}} refundable deposit)"
+        "successDesc": "Your WhatsApp client has been opened. Please send the formatted message to +49 1520 8181603 to submit your request."
       }
     },
     "fromPrice": "from",
     "totalFor": "Total for",
     "day": "day",
     "days": "days",
-    "bundleValue": "Multi-day bundle price",
     "typicalCost": "Typical daily shop rate",
     "youSave": "You save",
     "addOnsTitle": "Optional Add-ons",
@@ -145,16 +131,8 @@
   },
   "legal": {
     "impressum": "Impressum",
-    "impressumSubtitle": "Legal Notice",
     "privacy": "Privacy Policy",
-    "privacySubtitle": "Privacy Policy",
     "terms": "Terms & Conditions",
-    "termsSubtitle": "Terms & Conditions",
-    "details": "Angaben gemäß § 5 TMG",
-    "represented": "Vertreten durch",
-    "contact": "Kontakt",
-    "register": "Registereintrag",
-    "vat": "Umsatzsteuer-ID",
     "pages": {
       "impressum": {
         "title": "Impressum",
@@ -163,14 +141,12 @@
           "details": "Information according to § 5 TMG",
           "represented": "Represented by",
           "contact": "Contact",
-          "register": "Register Entry",
           "vat": "VAT ID"
         },
         "content": {
           "details": "RentNShred GbR\nLindwurmstr. 100\n80337 Munich",
           "represented": "Mhd Karim Janou & Gusnadi Wiyoga",
           "contact": "Phone: +49 1520 8181603\nEmail: webmaster@rentnshred.de",
-          "register": "Entry in the commercial register.\nDistrict Court: Munich\nRegistration Number: HRB 123456",
           "vat": "According to § 19 UStG (German Value Added Tax Act), VAT is not calculated or stated on invoices due to small business status (Kleinunternehmerstatus)."
         }
       },
